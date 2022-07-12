@@ -1,0 +1,18 @@
+/* css 주석 방법 */
+@import url('https://fonts.googleapis.com/css2?family=Sunflower:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Do+Hyeon&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
+/* 태그 선택자 */
+h1 {
+    font-family: 'Do Hyeon';
+}
+li {
+    font-family: 'Sunflower';
+}
+p {
+    font-family: 'IBM Plex Sans KR';
+}
+h2 {
+    font-family: 'IBM Plex Sans KR';
+}

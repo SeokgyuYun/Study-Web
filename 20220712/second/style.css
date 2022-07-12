@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+KR:wght@700&display=swap');
+
+/* 전체(모든) 선택자: 모든 태그에 스타일 적용 */
+* {
+    background-color: #fff7ed;
+}
+/* 태그 선택자: */
+h1 {
+    letter-spacing: 1.5px;
+    color: #c88533;
+    text-align: center;
+    font-family: 'IBM Plex Sans KR';
+}
+h2 {
+    letter-spacing: 1.5px;
+    font-family: 'IBM Plex Sans KR';
+    
+}
+/* 아이디 선택자: 아이디명 앞에 #을 붙임 */
+#aaa {
+    color: red;
+}
+/* 클래스 선택자: 클래스명 앞에 .을 붙임 */
+.bbb {
+    color: green;
+}
+p {
+    background-color: #ffeed4;
+    line-height: 1.8; /* 자간 */
+    letter-spacing: 1.5px; /* 글자와 글자 사이의 간격 설정 */
+    font-family: 'IBM Plex Sans KR';
+}
+img {
+    border-radius: 15px;
+}
+li {
+    letter-spacing: 1.5px;
+    font-family: 'IBM Plex Sans KR';
+}
